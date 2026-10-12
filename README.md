@@ -68,9 +68,6 @@ The `LoggingAspect` class uses the `@Aspect`, `@Component`, and `@Before` annota
 
 The `AppConfig` class uses `@Configuration`, `@ComponentScan`, and `@EnableAspectJAutoProxy` to configure the application without XML.
 
-## Database
-
-MySQL is not required for this project. Employee details are stored in Java instance variables during execution and are not permanently saved.
 
 ## Learning Objectives
 
